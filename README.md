@@ -1,6 +1,6 @@
 # (live) Chest Monitor Computer Craft
 Chest monitor for CraftOS v1.9 CC: Tweaked. 
-For the technologically impaired players of minecraft that have no idea how to program in Lua.
+For the technologically impaired players of minecraft that have no idea how to program in Lua. I was forced to upload this to my github by my college coaches.
 <image src="screenshots/javaw_KSbtaDKutO.webp" />
 <image src="screenshots/javaw_2zIJ6DWcjH.webp" />
 
