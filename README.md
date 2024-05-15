@@ -14,6 +14,15 @@ This is the list of features and limitations of this CC(Computer Craft) program:
 * It is stylized to the center of the monitor
 * It does not support computers with multiple monitors attached to it (in the sense of having a monitor in its *front face*, *back face*, *left face*, *etc*).
 * It does not support multiple chests.
+* Has a way to stop the script at will.
+
+## Installation
+Here is a step by step guide on how to install this to your computercraft device!
+1. Make sure you're playing in a modpack with CC: Tweaked or said mod standalone.
+2. Make sure you have a monitor hooked up to the computer (its size does not matter, but I recommend a 4 x 4, 16 block, monitor)
+3. Make sure you have a chest hooked up to the computer
+4. Open the computer terminal and run `wget run https://raw.githubusercontent.com/bafiantje/chest-monitor-CC/main/install.lua`. This will download the `chest_monitor.lua` file.
+5. This step would also be mentioned in the terminal but run `reboot` to start the program.
 
 ## License
 
