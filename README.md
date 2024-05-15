@@ -14,7 +14,7 @@ This is the list of features and limitations of this CC(Computer Craft) program:
 * It is stylized to the center of the monitor
 * It does not support computers with multiple monitors attached to it (in the sense of having a monitor in its *front face*, *back face*, *left face*, *etc*).
 * It does not support multiple chests.
-* Has a way to stop the script at will.
+* ~~Has a way to stop the script at will~~ deprecated.
 
 ## Installation
 Here is a step by step guide on how to install this to your computercraft device!
