@@ -53,12 +53,6 @@ end
 
 while true do
     updateDisplay()
-    print("Type and enter any key or string to quit.")
-    local input = read()
 
-    if input then
-        print("Stopping the live monitor.")
-        break
-    end
     sleep(10)
 end
