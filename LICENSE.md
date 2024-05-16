@@ -1,6 +1,6 @@
 # BSD 2-Clause
 <hr/>
-Copyright (c) 2024, bafiantje
+Copyright (c) 2024, Fabian van Unen
 
 All rights reserved.
 
